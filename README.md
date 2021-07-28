@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njau58
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Nextjs.
+- 🌱 I’m currently learning Nextjs and stuff.
 - 📫 How to reach me njauprince@gmail.com is my email.
 
 <!---
